@@ -1,2 +1,2 @@
 # preloader
-preloader _js_plugin
+preloader_js_plugin
